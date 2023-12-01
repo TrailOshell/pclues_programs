@@ -1,5 +1,5 @@
 *.DS_Store
-elephant/*.pclues/*
-scorpion/*.pclues/*
-octopus/*.pclues/*
+# elephant/*.pclues/*
+# scorpion/*.pclues/*
+# octopus/*.pclues/*
 *.dSYM
