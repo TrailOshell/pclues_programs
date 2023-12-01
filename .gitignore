@@ -1,1 +1,4 @@
 *.DS_Store
+elephant/*.pclues/*
+scorpion/*.pclues/*
+octopus/*.pclues/*
